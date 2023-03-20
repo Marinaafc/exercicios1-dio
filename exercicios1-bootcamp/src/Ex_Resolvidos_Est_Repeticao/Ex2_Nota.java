@@ -1,3 +1,4 @@
+package Ex_Resolvidos_Est_Repeticao;
 import java.util.Scanner;
 
 public class Ex2_Nota {

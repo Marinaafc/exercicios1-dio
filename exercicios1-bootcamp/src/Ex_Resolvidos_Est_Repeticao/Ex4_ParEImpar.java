@@ -1,3 +1,4 @@
+package Ex_Resolvidos_Est_Repeticao;
 import java.util.Scanner;
 import java.util.jar.Manifest;
 
