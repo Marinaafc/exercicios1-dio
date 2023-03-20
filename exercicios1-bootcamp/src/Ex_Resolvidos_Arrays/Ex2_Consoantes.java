@@ -1,4 +1,4 @@
-package Ex_Resolvidos_Arrays;
+package ex_resolvidos_arrays;
 
 import java.util.Scanner;
 

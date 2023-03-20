@@ -1,4 +1,4 @@
-package Ex_Resolvidos_Est_Repeticao;
+package ex_resolvidos_est_repeticao;
 import java.util.Scanner;
 
 public class Ex1_NomeEIdade {

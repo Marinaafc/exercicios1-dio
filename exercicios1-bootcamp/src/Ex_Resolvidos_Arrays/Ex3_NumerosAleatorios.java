@@ -1,4 +1,4 @@
-package Ex_Resolvidos_Arrays;
+package ex_resolvidos_arrays;
 
 import java.util.Random;
 
@@ -32,7 +32,7 @@ public class Ex3_NumerosAleatorios {
         System.out.print(numero - 1 + " ");
         
     }
-    
+
     System.out.print("\nSucessores dos Números Aleatórios: ");
     for (int numero : numerosAleatorios) {
         System.out.print(numero + 1 + " ");
