@@ -1,4 +1,8 @@
-# exercicios1-dio
-Exercícios do curso "Estrutura de Repetição e Arrays em Java"
+# Exercícios do Bootcamp "Banco PAN Java Developer"
 
-Esses exercícios foram resolvidos pela professora do curso. Podem ter algumas pequenas alterações feitas por mim, mas não é 100% autoral.
+Exercícios resolvidos em aula dos cursos: 
+
+- Estrutura de Repetição e Arrays em Java;
+- Entendendo Métodos Java;
+
+Em alguns exercícios fiz alterações no intuito de praticar o conteúdo apresentado, mas a maioria está seguindo a resolução do(a) professor(a)..
