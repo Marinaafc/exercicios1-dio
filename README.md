@@ -1,6 +1,6 @@
 # Exercícios do Bootcamp "Banco PAN Java Developer"
 
-Neste repositório estarão presentes os exercícios resolvidos nas aulas dos seguintes cursos do Bootcamp "Banco PAN Java Developer":
+Neste repositório, estarão presentes os exercícios resolvidos nas aulas dos seguintes cursos do Bootcamp "Banco PAN Java Developer":
 
 - Estrutura de Repetição e Arrays em Java;
 - Entendendo Métodos Java.
