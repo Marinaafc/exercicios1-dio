@@ -1,4 +1,8 @@
 public class Ex1_Emprestimo {
+
+    /* - Calcular o valor final de um empréstimo a partir do valor solicitado.
+    * Taxas e parcelas influenciam. Definir as faixas que irão influenciar nos valores.
+    */
     
     public static int getDuasParcelas(){
         return 2;

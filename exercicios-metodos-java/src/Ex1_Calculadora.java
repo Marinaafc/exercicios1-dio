@@ -3,11 +3,7 @@ public class Ex1_Calculadora {
 
  * - Calcular as 4 operações básicas (soma, subtração, multiplicação e divisão)
  * 2 valores devem ser passados como parâmetros.
- * - A partir da hora do dia, informar a mensagem adequada 
- * (Bom dia, Boa tarde ou Boa noite).
- * - Calcular o valor final de um empréstimo a partir do valor solicitado.
- * Taxas e parcelas influenciam. Definir as faixas que irão influenciar nos valores.
- */
+*/
 
 public static void soma(double numero1, double numero2) {
 

@@ -1,6 +1,8 @@
 public class Ex1_Mensagem {
 
-
+    /* - A partir da hora do dia, informar a mensagem adequada 
+    * (Bom dia, Boa tarde ou Boa noite).*/
+    
     public static void obterMensagem(int hora){
 
         switch (hora) {
