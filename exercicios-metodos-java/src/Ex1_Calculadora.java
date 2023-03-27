@@ -1,7 +1,5 @@
 public class Ex1_Calculadora {
-/* Criar uma aplicação que resolva as seguintes situações:
-
- * - Calcular as 4 operações básicas (soma, subtração, multiplicação e divisão)
+/* - Calcular as 4 operações básicas (soma, subtração, multiplicação e divisão)
  * 2 valores devem ser passados como parâmetros.
 */
 
